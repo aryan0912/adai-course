@@ -42,6 +42,5 @@ next-env.d.ts
 
 # files
 *.pptx
-*.png
-!public/*.png
+/*.png
 *.pdf

@@ -3,6 +3,8 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import pic1 from "@/assets/pic1.png";
+import pic2 from "@/assets/pic2.png";
 import {
   GraduationCap,
   Clock,
@@ -143,10 +145,8 @@ export default function WorkshopsPage() {
         {/* Embedded High-Fidelity Infographic */}
         <div className="relative w-full rounded-xl overflow-hidden border border-slate-800 shadow-2xl bg-white">
           <Image
-            src="/pic1.png"
+            src={pic1}
             alt="Weekly Workload Transformation: Indian Civil Servant"
-            width={1920}
-            height={1080}
             className="w-full h-auto object-contain"
             priority
           />
@@ -226,10 +226,8 @@ export default function WorkshopsPage() {
         {/* Embedded Capability Pyramid Diagram */}
         <div className="relative w-full rounded-xl overflow-hidden border border-slate-800 shadow-2xl bg-white max-w-4xl mx-auto">
           <Image
-            src="/pic2.png"
+            src={pic2}
             alt="3-Tier Capability Pyramid Infographic for Senior Government Officers"
-            width={1920}
-            height={1080}
             className="w-full h-auto object-contain"
             priority
           />
