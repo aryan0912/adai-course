@@ -1,0 +1,14 @@
+{
+  "scheme": "PM Awas Yojana (PMAY-G)",
+  "document_text": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G) Guidelines:\n\nSection 4.1. Eligibility Criteria:\nThe beneficiary must be a rural household without a pucca house or living in a kutcha house with up to two rooms. The household must be included in the SECC 2011 database or the finalized Awaas+ list.\n\nSection 5.3. Subsidy Amount:\nThe assistance provided is ₹1.20 lakh in plains and ₹1.30 lakh in hilly states, difficult areas, and IAP districts.\n\nSection 8.2. Grievance Redressal:\nBeneficiaries facing delays in fund disbursement can register a grievance at the Block Development Office (BDO) or via the dedicated state portal.",
+  "rti_query": "I, Ramesh Kumar from Haritpur District (a hilly state), applied for the housing subsidy 6 months ago. I live in a 1-room kutcha house. Am I eligible, and how much money should I get? Also, the money hasn't come yet, who should I complain to?",
+  "ai_generated": {
+    "english_response": "Dear Applicant,\n\nBased on the PM Awas Yojana (PMAY-G) Guidelines:\n1. Eligibility: Since you live in a 1-room kutcha house, you meet the primary criteria (Section 4.1).\n2. Subsidy Amount: As Haritpur is in a hilly state, the eligible assistance amount is ₹1.30 lakh (Section 5.3).\n3. Grievance: For delays in fund disbursement, you may register a formal grievance at your local Block Development Office (BDO) (Section 8.2).",
+    "hindi_response": "प्रिय आवेदक,\n\nपीएम आवास योजना (PMAY-G) दिशानिर्देशों के आधार पर:\n1. पात्रता: चूँकि आप 1-कमरे के कच्चे घर में रहते हैं, आप प्राथमिक मानदंड (धारा 4.1) को पूरा करते हैं।\n2. सब्सिडी राशि: चूँकि हरितपुर एक पहाड़ी राज्य में है, पात्र सहायता राशि ₹1.30 लाख है (धारा 5.3)।\n3. शिकायत: निधि वितरण में देरी के लिए, आप अपने स्थानीय खंड विकास कार्यालय (बीडीओ) में औपचारिक शिकायत दर्ज कर सकते हैं (धारा 8.2)।",
+    "citations": [
+      { "fact": "Eligibility (1-room kutcha house)", "section": "Section 4.1" },
+      { "fact": "Subsidy Amount (₹1.30 lakh for hilly states)", "section": "Section 5.3" },
+      { "fact": "Grievance Redressal (BDO)", "section": "Section 8.2" }
+    ]
+  }
+}

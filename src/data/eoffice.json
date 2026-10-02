@@ -1,0 +1,20 @@
+{
+  "id": "FILE-PWD-2023-089",
+  "title": "Road Construction Project - Haritpur District",
+  "pages": 15,
+  "content": "Subject: Stalled PWD Road Construction from Haritpur to Neelam Valley\n\nFile Notes (Pages 1-15 summary):\nThe project was initiated on 12-05-2022 with a sanctioned budget of ₹45 Crores. Work progressed smoothly until 18-09-2023 when it was halted due to land acquisition disputes raised by residents of village Madhavpur. Currently, 40% of the physical work is complete. The contractor has raised bills for the completed work, which are pending clearance. The District Magistrate has requested an immediate resolution to prevent cost overruns.",
+  "extracted_data": {
+    "key_dates": ["12-05-2022", "18-09-2023"],
+    "financial_figures": ["₹45 Crores"],
+    "completion_status": "40%"
+  },
+  "ai_generated": {
+    "summary_bullets": [
+      "Project initiated on 12-05-2022 with a ₹45 Cr budget.",
+      "Work halted on 18-09-2023 due to land disputes in Madhavpur.",
+      "40% of physical work is completed.",
+      "Contractor payments are pending and require clearance to avoid cost overruns."
+    ],
+    "draft_om": "OFFICE MEMORANDUM\n\nSub: Resumption of Haritpur road construction.\nRef: FILE-PWD-2023-089\n\n1. It is directed that the Sub-Divisional Magistrate (SDM) resolve the land acquisition disputes in Madhavpur village at the earliest.\n2. The pending contractor bills for the 40% completed work should be processed and cleared subject to standard verification.\n\nBy Order,\n[Officer Designation]"
+  }
+}

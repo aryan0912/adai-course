@@ -1,0 +1,37 @@
+[
+  {
+    "id": "DAK-001",
+    "subject": "Severe Water Contamination in Ward 4",
+    "content": "The drinking water supply in Ward 4 has been contaminated with sewage for the last 3 days. Several children have fallen ill.",
+    "ai_suggested_department": "Jal Nigam",
+    "ai_suggested_priority": "Urgent"
+  },
+  {
+    "id": "DAK-002",
+    "subject": "Land Encroachment near Primary School",
+    "content": "A local builder has illegally constructed a boundary wall encroaching 5 meters into the government primary school playground.",
+    "ai_suggested_department": "Revenue",
+    "ai_suggested_priority": "Medium"
+  },
+  {
+    "id": "DAK-003",
+    "subject": "Fluctuating Voltage Damaging Appliances",
+    "content": "Frequent voltage fluctuations in the evening are damaging household appliances in the main market area.",
+    "ai_suggested_department": "UPCL",
+    "ai_suggested_priority": "Low"
+  },
+  {
+    "id": "DAK-004",
+    "subject": "Request for New Tube Well",
+    "content": "Farmers in village Sitapur request the installation of a new tube well before the upcoming Rabi season.",
+    "ai_suggested_department": "Jal Nigam",
+    "ai_suggested_priority": "Medium"
+  },
+  {
+    "id": "DAK-005",
+    "subject": "Mutation of Property Records Pending",
+    "content": "My application for the mutation of land records (Khatauni) has been pending for over 6 months without any clear reason.",
+    "ai_suggested_department": "Revenue",
+    "ai_suggested_priority": "Low"
+  }
+]
